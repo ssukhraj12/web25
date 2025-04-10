@@ -15,7 +15,7 @@ export default function Home() {
     <div className="container mx-auto">
       <Container>
         <div>ater u ok</div>
-        <Typography variant={'h1'}>This is h1</Typography>
+        <Typography variant={'h1'}>This is h1 Kartik</Typography>
         <Button color={'primary'} variant={'contained'} size={'medium'}>Lime Button</Button>
       </Container>
 
